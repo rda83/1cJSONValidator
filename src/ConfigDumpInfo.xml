@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.8">
+	<ConfigVersions>
+		<Metadata name="Catalog.Тесты" id="38e7ffc7-7efd-4994-8851-6f0bfe220fe4" configVersion="cd4e07b15372174b9c9e7862730a86be00000000">
+			<Metadata name="Catalog.Тесты.Attribute.Схема" id="7027b03c-bd44-45ca-84be-4b2bd5d8659e"/>
+			<Metadata name="Catalog.Тесты.Attribute.НеЗапускать" id="990039c1-8bb6-4c6e-a39d-e067644b6f40"/>
+			<Metadata name="Catalog.Тесты.Attribute.ОжидаемыйРезультат" id="e6808684-bacf-440a-b760-4869e08e3247"/>
+			<Metadata name="Catalog.Тесты.Attribute.Описание" id="f3711908-b258-48c8-b83e-9fa3d2951ace"/>
+			<Metadata name="Catalog.Тесты.Attribute.Данные" id="f7e1bd61-f5d3-44e9-9edc-6ab2d9b34ea8"/>
+		</Metadata>
+		<Metadata name="Catalog.Тесты.Form.ФормаСписка" id="dad1298f-d14a-40b1-9dfd-913ad287f535" configVersion="3490f5abb0516448acd57f1cf2489f4c00000000"/>
+		<Metadata name="Catalog.Тесты.Form.ФормаСписка.Form" id="dad1298f-d14a-40b1-9dfd-913ad287f535.0" configVersion="5a6affae78221a46b0772fe9ec00a86b00000000"/>
+		<Metadata name="Catalog.Тесты.Form.ФормаЭлемента" id="eb2402fb-eef6-4e63-a688-d23ae7ef9479" configVersion="6c792eacf1b2f5468447a8a2b88385c300000000"/>
+		<Metadata name="Catalog.Тесты.Form.ФормаЭлемента.Form" id="eb2402fb-eef6-4e63-a688-d23ae7ef9479.0" configVersion="2831110651c78347a2cf7082a36e0c1400000000"/>
+		<Metadata name="CommonModule.ВалидацияЗначенийКлиентСервер" id="e3f9801f-64c4-4dc1-8010-7fd3d1a6eada" configVersion="b7054368f65fec4b8b23d4d2f2bbb3b500000000"/>
+		<Metadata name="CommonModule.ВалидацияЗначенийКлиентСервер.Module" id="e3f9801f-64c4-4dc1-8010-7fd3d1a6eada.0" configVersion="e5cb6f55aada1645bcbe75d10d53dd7b00000000"/>
+		<Metadata name="CommonModule.ОбщиеПроцедурыФункцииВалидацииJSONКлиентСервер" id="3c1cb118-7e32-41a0-8c7d-0ba163be81d8" configVersion="c5f676b3b231014fbb77ed660083e91e00000000"/>
+		<Metadata name="CommonModule.ОбщиеПроцедурыФункцииВалидацииJSONКлиентСервер.Module" id="3c1cb118-7e32-41a0-8c7d-0ba163be81d8.0" configVersion="a127a68e0a0a9143aeb9776bdeb6e34d00000000"/>
+		<Metadata name="CommonModule.СтроковыеФункцииКлиентСервер" id="53a5b311-fd86-4ade-9070-ece2972dac20" configVersion="83274de0bda2c24bb42ef823c29b809f00000000"/>
+		<Metadata name="CommonModule.СтроковыеФункцииКлиентСервер.Module" id="53a5b311-fd86-4ade-9070-ece2972dac20.0" configVersion="23e30d62d1b01546bf5ac90b17901ef300000000"/>
+		<Metadata name="Configuration.Конфигурация" id="42c46614-be1f-409f-8353-b2352cbb1142" configVersion="9812f9c0b3874044ad23ec3bbd8ee4d500000000"/>
+		<Metadata name="DataProcessor.Валидатор" id="6650e5c3-22b1-4b5b-9cd6-7e78637f4213" configVersion="fa5a2974d84cba46969fcd770ec2500f00000000">
+			<Metadata name="DataProcessor.Валидатор.Attribute.Схема" id="49611ac1-c494-4b61-87cf-2f859187ab14"/>
+			<Metadata name="DataProcessor.Валидатор.Attribute.ВходящиеДаные" id="6861c14c-3ebf-49b7-8aa2-cbde870d5856"/>
+			<Metadata name="DataProcessor.Валидатор.Attribute.РезультатПроверки" id="69af0f53-298f-4425-a140-69595f51496a"/>
+		</Metadata>
+		<Metadata name="DataProcessor.Валидатор.Form.Форма" id="94891636-1e44-4e22-b226-0ec9c79a59d3" configVersion="d808b379cbef1f4097c51c7f1679c03100000000"/>
+		<Metadata name="DataProcessor.Валидатор.Form.Форма.Form" id="94891636-1e44-4e22-b226-0ec9c79a59d3.0" configVersion="149db612e4c74144b9bf658169e98bdb00000000"/>
+		<Metadata name="DataProcessor.Валидатор.ObjectModule" id="6650e5c3-22b1-4b5b-9cd6-7e78637f4213.0" configVersion="7bbb1054b29bad4f9433294f034a8edd00000000"/>
+		<Metadata name="DataProcessor.Тесты" id="6cb07796-f0be-4aa6-afc6-cad5a5bf34e1" configVersion="164e1f2222713e4d8c7ce39aec232de100000000">
+			<Metadata name="DataProcessor.Тесты.TabularSection.Результаты.Attribute.Данные" id="25f5df17-5226-431f-b34b-8addfd7c632c"/>
+			<Metadata name="DataProcessor.Тесты.TabularSection.Результаты.Attribute.Схема" id="876837ee-02e0-4a61-b879-d7c39d85995f"/>
+			<Metadata name="DataProcessor.Тесты.TabularSection.Результаты.Attribute.ПолученныйРезультат" id="8e8a639c-5fdf-47a9-8ea5-9813d7db24e5"/>
+			<Metadata name="DataProcessor.Тесты.TabularSection.Результаты.Attribute.Тест" id="a228f6c6-ae75-4f51-bb5f-0ae1ee2d80a9"/>
+			<Metadata name="DataProcessor.Тесты.TabularSection.Результаты.Attribute.Успех" id="ba3a0440-4649-4be7-b880-1c4383cb9029"/>
+			<Metadata name="DataProcessor.Тесты.TabularSection.Результаты" id="d1b9d625-2db9-4a61-b5ff-9fb48409b74b"/>
+			<Metadata name="DataProcessor.Тесты.TabularSection.Результаты.Attribute.ОжидаемыйРезультат" id="ed039b28-e7ff-4e9b-b8df-936cf1a3276a"/>
+		</Metadata>
+		<Metadata name="DataProcessor.Тесты.Form.Форма" id="7568ba7b-3b2c-40cd-9a92-8ca6adc55d9f" configVersion="0bb936ca3fc3d744bb03e25c9f3c8b1600000000"/>
+		<Metadata name="DataProcessor.Тесты.Form.Форма.Form" id="7568ba7b-3b2c-40cd-9a92-8ca6adc55d9f.0" configVersion="ef2be038a7e59c4a8109d669b54fcd9e00000000"/>
+		<Metadata name="Enum.ТипыДанныхJSON" id="6005223e-c3d3-4bf9-82fa-dd6d8378d864" configVersion="da3dbe40c6f04c46abd87272d086983a00000000">
+			<Metadata name="Enum.ТипыДанныхJSON.EnumValue.ЧислоСДробнойЧастью" id="2048f3e8-d09e-4689-a0bb-d79ba72fc05f"/>
+			<Metadata name="Enum.ТипыДанныхJSON.EnumValue.Массив" id="8e586434-f2c7-485e-bc32-94e1a5d37a2f"/>
+			<Metadata name="Enum.ТипыДанныхJSON.EnumValue.Объект" id="9b5bfac2-dc1c-4ca7-881b-73125fb90aca"/>
+			<Metadata name="Enum.ТипыДанныхJSON.EnumValue.ЦелоеЧисло" id="b3f7abe9-993b-4df2-81f1-0247346cf367"/>
+			<Metadata name="Enum.ТипыДанныхJSON.EnumValue.Строка" id="b5dbeeb9-0d7f-4baf-ac22-6cd0940f08b6"/>
+			<Metadata name="Enum.ТипыДанныхJSON.EnumValue.Булево" id="cfeebcbe-a13b-4676-bc53-02a431d58b51"/>
+		</Metadata>
+		<Metadata name="Enum.ФорматыОтветаФункцииПроверки" id="b5611c0c-4f12-49e8-8b0f-8176e3643112" configVersion="eae6d8b4b95ada46868c23a306cf204200000000">
+			<Metadata name="Enum.ФорматыОтветаФункцииПроверки.EnumValue.СтрокаJSONБезСпецСимволов" id="14cff46d-15cf-4a9c-8a31-a0f9546fcda3"/>
+			<Metadata name="Enum.ФорматыОтветаФункцииПроверки.EnumValue.СтрокаJSON" id="317af524-30ea-4a58-9769-0c948a8ebb68"/>
+			<Metadata name="Enum.ФорматыОтветаФункцииПроверки.EnumValue.Соответствие" id="ba456fb9-f599-436e-a007-9c8c38fa0055"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="b593c845-09a5-4b71-944a-e7f3512132f2" configVersion="d5000b6b84a3134b80cced664df7151600000000"/>
+		<Metadata name="Subsystem.БазоваяФункциональность" id="1d838515-cff0-4d7a-8ac8-bc88470b24bc" configVersion="4e5dc5f6dbae1d46bfc8a995ee93b1a900000000"/>
+		<Metadata name="Subsystem.ВалидацияJSON" id="ec228180-1352-4ec6-a79a-2631ca6b05dd" configVersion="0ae24bee0ceaa64f8816528655cf92dd00000000"/>
+		<Metadata name="Subsystem.ВалидацияJSONТестирование" id="54cbe2d4-0f59-4902-802b-8a9933b1c0b3" configVersion="e5efee784d68eb46b50377ed2c92e28400000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
